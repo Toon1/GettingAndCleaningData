@@ -25,7 +25,7 @@ Subjects performed the tests during the activities. You can find the activity da
  - 'y_test.txt': Testing labels.
  - 'activity_labels.txt': Links the labels with their activity name.
 
-Create tidy daat set with run_analysis.R file
+Create tidy data set with run_analysis.R file
 =============================================
 
 With run_analysis.R file a tidy dataset can be created.  The following steps are executed in this file :
